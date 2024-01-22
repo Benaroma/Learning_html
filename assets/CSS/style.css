@@ -1,0 +1,32 @@
+.fruits{
+    border: 3px solid brown;
+    text-align: center;
+    background-image: url("assets/images/Apples.jpeg");
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+.cars{
+    border: 5px dotted orange;
+    text-align: left;
+    padding: 15px;
+    font-size: 15px;
+    background-image: url("assets/images/RollsRoyce.jpeg");
+}
+.FRUITS{
+     border: 7px solid blue;
+    text-align: right;
+    background-image: url("assets/images/Apples.jpeg");
+    margin: 10px;
+    padding: 10px;
+    font-size: 25px;
+}
+#computer{
+    border: 7px solid blue;
+    text-align: right;
+    background-image: url("assets/images/Think Pad.jpeg");
+    margin: 10px;
+    padding: 10px;
+    font-size: 25px;
+
+}

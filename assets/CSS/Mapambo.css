@@ -1,0 +1,26 @@
+table{
+    width: 90%;
+    border-collapse: collapse;
+    margin: 20px;
+    background-image: url("assets/images/grandcanyon.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+td,th{
+    border: 2px solid aqua;
+    padding: 5px;
+}
+th{
+    color: chartreuse;
+    font-size: large;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+tr:nth-child(odd){
+    background-color: gold;
+}
+td{
+    text-decoration-color: aqua;
+}

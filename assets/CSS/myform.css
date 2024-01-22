@@ -1,0 +1,32 @@
+body{
+    font-family: "Nimbus Sans Narrow";
+    background-color: aquamarine;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#form-container{
+    background-color: coral;
+    padding: 20px;
+    border-radius:7px;
+    box-shadow: 0 0 9px rgba(0,0,0,0.1);
+    width: 398px;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+label{
+    display: block;
+    font-weight: bolder;
+    margin-top: 7px;
+}
+button{
+    background-color: gold;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 8px rgba(7,89,89,25);
+    cursor: pointer;
+    font-size: 15px;
+}
